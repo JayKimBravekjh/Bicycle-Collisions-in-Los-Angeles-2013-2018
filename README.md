@@ -1,7 +1,5 @@
-## Data Analysis of Bicyclist Accidents in LA 2013-2018)
-
-# Bicycle Accident Map:
-https://doineedavisa.org/temp.html
+Bicycle Accident Map:
+ https://doineedavisa.org/temp.html
 
 Type of Bicycle Collisions in Los Angeles 2013-2018
 - Broadside             6813
