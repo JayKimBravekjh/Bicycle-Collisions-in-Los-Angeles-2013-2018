@@ -36,13 +36,13 @@ Yearly Bicyclist Accidents in Los Angeles from 2013-12018 is:
 - 2014    32675
 - 2015    35829
 - 2016    37855
-- 2017    38209
+- 2017    38209 <- worst year
 - 2018    15645
 
 Bicyclist Accidents in Los Angeles from 2013-12018 by month is: 
 - 1     16715
 - 2     16345
-- 3     18478
+- 3     18478 <- worst month
 - 4     17699
 - 5     17754
 - 6     14422
@@ -71,6 +71,3 @@ Most Dangerous Intersection for bicyclists in Los Angeles 2013-2018 based on num
 - SUNSET BLVD & BEAUDRY AVE, LOS ANGELES, CA       11
 - VERMONT AVE & 3RD ST, LOS ANGELES, CA            11
 - FIGUEROA ST & 28TH ST, LOS ANGELES, CA           10
-
-![title]('Users/nonoumasy/Desktop/download.png')
-
