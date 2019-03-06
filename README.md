@@ -1,8 +1,7 @@
-# bicyclist_accident_in_LosAngeles_2013-2018
-Data Analysis of Bicyclist Accidents in LA 2013-2018
-
-# Bicycle Accident Map:
-https://doineedavisa.org/temp.html
+<h1>Data Analysis of Bicyclist Accidents in LA 2013-2018</h1)
+<br>
+<h3> Bicycle Accident Map:</h3>
+<href>https://doineedavisa.org/temp.html</href>
 
 
 Type of Bicycle Collisions in Los Angeles 2013-2018
