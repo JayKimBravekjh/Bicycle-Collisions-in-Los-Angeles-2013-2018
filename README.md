@@ -1,7 +1,6 @@
 Bicycle Accident Map: 
 >https://doineedavisa.org/temp.html
 
-I love :bike: and :coffee:
 
 Total Bicyclist Fatalities in Los Angeles from 2013-12018 is: 
 * 78
