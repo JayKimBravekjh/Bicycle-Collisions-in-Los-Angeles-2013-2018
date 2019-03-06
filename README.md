@@ -9,12 +9,12 @@ Total Bicyclist Injuries in Los Angeles from 2013-12018 is:
 * 10975
 
 Bicyclist Accidents year: 
-- 2013    31814
-- 2014    32675
-- 2015    35829
-- 2016    37855
-- 2017    38209 <- worst year
-- 2018    15645
+- 2013    - 31814
+- 2014    - 32675
+- 2015    - 35829
+- 2016    - 37855
+- 2017    - 38209 <- worst year
+- 2018    - 15645
 
 Bicyclist Accidents by month: 
 - 1     16715
