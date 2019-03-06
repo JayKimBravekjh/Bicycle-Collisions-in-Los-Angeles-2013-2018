@@ -54,21 +54,20 @@ Bicyclist Accidents in Los Angeles from 2013-12018 by month is:
 - 11    14845
 - 12    15202
 
-Top 10 roads with the most bicycle accidents in Los Angeles 2013-2018
+Top 5 roads with the most bicycle accidents in Los Angeles 2013-2018
 - WESTERN AVE       3483
 - FIGUEROA ST       3116
 - VERMONT AVE       2987
 - SUNSET BLVD       2816
 - VENTURA BLVD      2579
-- SEPULVEDA BLVD    2572
-- VICTORY BLVD      2549
-- SHERMAN WAY       2452
-- OLYMPIC BLVD      2387
-- ROSCOE BLVD       2234
 
-Most Dangerous Intersection for bicyclists in Los Angeles 2013-2018 based on number of injuries
+Top 5 Most Dangerous Intersection for bicyclists in Los Angeles 2013-2018 based on number of injuries
 - MANCHESTER AVE & VERMONT AVE, LOS ANGELES, CA    13
 - MANCHESTER AVE & FIGUEROA ST, LOS ANGELES, CA    12
 - SUNSET BLVD & BEAUDRY AVE, LOS ANGELES, CA       11
 - VERMONT AVE & 3RD ST, LOS ANGELES, CA            11
 - FIGUEROA ST & 28TH ST, LOS ANGELES, CA           10
+
+The month and year with the most bicycle injuries in Los Angeles 2013-2018 is: 
+- May,2013 with 224 bicycle injuries
+
