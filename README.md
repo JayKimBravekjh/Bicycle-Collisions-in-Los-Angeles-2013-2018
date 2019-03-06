@@ -1,5 +1,7 @@
-Bicycle Accident Map:
+Bicycle Accident Map: 
 >https://doineedavisa.org/temp.html
+
+I love :bike: and :coffee:
 
 Type of Bicycle Collisions in Los Angeles 2013-2018
 - Broadside             6813
