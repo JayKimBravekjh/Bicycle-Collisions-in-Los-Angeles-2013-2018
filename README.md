@@ -54,6 +54,9 @@ Bicyclist Accidents in Los Angeles from 2013-12018 by month is:
 - 11    14845
 - 12    15202
 
+The month and year with the most bicycle injuries in Los Angeles 2013-2018 is: 
+- May,2013 with 224 bicycle injuries
+
 Top 5 roads with the most bicycle accidents in Los Angeles 2013-2018
 - WESTERN AVE       3483
 - FIGUEROA ST       3116
@@ -68,6 +71,4 @@ Top 5 Most Dangerous Intersection for bicyclists in Los Angeles 2013-2018 based 
 - VERMONT AVE & 3RD ST, LOS ANGELES, CA            11
 - FIGUEROA ST & 28TH ST, LOS ANGELES, CA           10
 
-The month and year with the most bicycle injuries in Los Angeles 2013-2018 is: 
-- May,2013 with 224 bicycle injuries
 
