@@ -16,8 +16,6 @@ Type of Bicycle Collisions in Los Angeles 2013-2018
 Bicycle accidents occuring on interections vs non-intersections in Los Angeles 2013-2018
 - Y    6310
 - N    5310
-- -      18
-
 
 Top 5 Violation Category in Los Angeles 2013-2018
 - Automobile Right of Way                                        3104
