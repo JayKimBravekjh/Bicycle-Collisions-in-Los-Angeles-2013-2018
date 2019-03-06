@@ -31,13 +31,13 @@ Bicyclist Accidents by month:
 - 12    15202
 
 Days with the most bicycle accidents:
-Wednesday    1930 <-day with most bicycle accidents
-Thursday     1854
-Tuesday      1791
-Friday       1772
-Monday       1635
-Saturday     1440
-Sunday       1216
+- Wednesday    1930 <-day with most bicycle accidents
+- Thursday     1854
+- Tuesday      1791
+- Friday       1772
+- Monday       1635
+- Saturday     1440
+- Sunday       1216
 
 Month with the most bicycle accidents: 
 - May,2013 with 224 bicycle injuries
