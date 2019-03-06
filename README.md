@@ -2,7 +2,7 @@
 <br>
 <h3> Bicycle Accident Map:</h3>
 <href>https://doineedavisa.org/temp.html
-<br>
+
 Type of Bicycle Collisions in Los Angeles 2013-2018
 - Broadside             6813
 - Sideswipe             3042
