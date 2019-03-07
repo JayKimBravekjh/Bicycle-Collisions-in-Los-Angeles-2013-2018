@@ -10,6 +10,7 @@ Quick Facts:
 - Most bicycle accidents occured on dry weather. 
 - Bicycles accidents occured 2% of the time during wet conditions. 
 - There were no unusual conditions when most bicycle accidents occured.
+- Bicycle Accidents occur 16% more time on intersections.
 
 Bicyclist Accidents year: 
 - 2013    - 31814
