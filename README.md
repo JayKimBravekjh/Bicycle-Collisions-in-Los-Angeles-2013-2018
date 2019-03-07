@@ -78,4 +78,33 @@ Top 5 Most Dangerous Intersection for bicyclists based on number of injuries:
 - VERMONT AVE & 3RD ST, LOS ANGELES, CA            - 11
 - FIGUEROA ST & 28TH ST, LOS ANGELES, CA           - 10
 
+Weather Conditions when bicycle accidents occured
+- Dry                            11332
+- Wet                              240
+- Not Stated                        63
+- Slippery (Muddy, Oily, etc.        3
+
+
+Road Conditions when bicycle accidents occured
+- No Unusual Condition           11293
+- Not Stated                       165
+- Other                             50
+- Holes, Deep Ruts                  46
+- Construction or Repair Zone       45
+- Obstruction on Roadway            14
+- Reduced Roadway Width             13
+- Loose Material on Roadway         12
+
+
+Road Surface Conditions when bicycle accidents occured
+- Dry                            11332
+- Wet                              240
+- Not Stated                        63
+- Slippery (Muddy, Oily, etc.        3
+
+Hit and Run
+- Not Hit and Run    8980
+- Felony             2291
+- Misdeamenor         367
+
 
