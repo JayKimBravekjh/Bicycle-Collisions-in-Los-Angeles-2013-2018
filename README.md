@@ -1,12 +1,15 @@
 Bicycle Accident Map: 
 >https://doineedavisa.org/temp.html
 
-
-Total Bicyclist Fatalities in Los Angeles from 2013-12018 is: 
-* 78
-
-Total Bicyclist Injuries in Los Angeles from 2013-12018 is: 
-* 10975
+Quick Facts:
+- The annual average Bicycle Accidents per month is: 180
+- The worst month was on May 2013 with 224 bicycle injuries.
+- Total Bicyclist Fatalities in Los Angeles from 2013-12018 is: 78
+- Total Bicyclist Injuries in Los Angeles from 2013-12018 is: 10975
+- Most bicycle accidents occured on dry road surfaces.
+- Most bicycle accidents occured on dry weather. 
+- Bicycles accidents occured 2% of the time during wet conditions. 
+- There were no unusual conditions when most bicycle accidents occured.
 
 Bicyclist Accidents year: 
 - 2013    - 31814
@@ -38,9 +41,6 @@ Days with the most bicycle accidents:
 - Monday       - 1635
 - Saturday     - 1440
 - Sunday       - 1216
-
-Month with the most bicycle accidents: 
-- May,2013 with 224 bicycle injuries
 
 Type of Bicycle Collisions:
 - Broadside            - 6813
@@ -77,31 +77,6 @@ Top 5 Most Dangerous Intersection for bicyclists based on number of injuries:
 - SUNSET BLVD & BEAUDRY AVE, LOS ANGELES, CA       - 11
 - VERMONT AVE & 3RD ST, LOS ANGELES, CA            - 11
 - FIGUEROA ST & 28TH ST, LOS ANGELES, CA           - 10
-
-Weather Conditions when bicycle accidents occured
-- Dry                            - 11332
-- Wet                            -   240
-- Not Stated                     -    63
-- Slippery (Muddy, Oily, etc.    -     3
-
-
-Road Conditions when bicycle accidents occured
-- No Unusual Condition          -  11293
-- Not Stated                    -    165
-- Other                         -     50
-- Holes, Deep Ruts              -     46
-- Construction or Repair Zone   -     45
-- Obstruction on Roadway        -     14
-- Reduced Roadway Width         -     13
-- Loose Material on Roadway     -     12
-
-
-Road Surface Conditions when bicycle accidents occured
-- Dry                           - 11332
-- Wet                           -   240
-- Not Stated                    -    63
-- Slippery (Muddy, Oily, etc.   -     3
-
 
 Hit and Run
 - Not Hit and Run   - 8980
