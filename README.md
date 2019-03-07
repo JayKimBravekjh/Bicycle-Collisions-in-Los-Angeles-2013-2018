@@ -7,8 +7,7 @@ Quick Facts:
 - Total Bicyclist Injuries in Los Angeles from 2013-12018 is: 10975
 - The annual average Bicycle Accidents per month is: 180
 - The worst month was on May 2013 with 224 bicycle injuries.
-- Most bicycle accidents occured on dry road surfaces.
-- Most bicycle accidents occured on dry weather. 
+- Most bicycle accidents occured on dry road surfaces during dry weather. 
 - Bicycles accidents occured 2% of the time during wet conditions. 
 - There were no unusual conditions when most bicycle accidents occured.
 - Bicycle Accidents occur 16% more on intersections.
