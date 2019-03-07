@@ -19,7 +19,7 @@ Bicyclist Accidents year:
 - 2017    - 38209 <- worst year
 - 2018    - 15645
 
-Bicyclist Accidents by month: 
+Bicyclist Accidents by month(aggregate): 
 - 1     - 16715
 - 2     - 16345
 - 3     - 18478 <- worst month
