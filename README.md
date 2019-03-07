@@ -21,18 +21,18 @@ Bicyclist Accidents year:
 - 2018    - 15645
 
 Bicyclist Accidents by month(aggregate): 
-- 1     - 16715
-- 2     - 16345
-- 3     - 18478 <- worst month
-- 4     - 17699
-- 5     - 17754
-- 6     - 14422
-- 7     - 14462
-- 8     - 15595
-- 9     - 14716
-- 10    - 15794
-- 11    - 14845
-- 12    - 15202
+- May          - 1103
+- April        - 1100
+- March        - 1092
+- October      -  991
+- February     -  987
+- August       -  986
+- July         -  974
+- June         -  971
+- September    -  952
+- January      -  900
+- November     -  872
+- December     -  710
 
 Days with the most bicycle accidents(aggregate):
 - Wednesday    - 1930 <-day with most bicycle accidents
