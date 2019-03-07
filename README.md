@@ -33,7 +33,7 @@ Bicyclist Accidents by month(aggregate):
 - 11    - 14845
 - 12    - 15202
 
-Days with the most bicycle accidents:
+Days with the most bicycle accidents(aggregate):
 - Wednesday    - 1930 <-day with most bicycle accidents
 - Thursday     - 1854
 - Tuesday      - 1791
