@@ -102,6 +102,7 @@ Road Surface Conditions when bicycle accidents occured
 - Not Stated                    -    63
 - Slippery (Muddy, Oily, etc.   -     3
 
+
 Hit and Run
 - Not Hit and Run   - 8980
 - Felony            - 2291
