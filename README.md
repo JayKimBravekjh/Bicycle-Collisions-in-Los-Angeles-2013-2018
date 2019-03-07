@@ -11,6 +11,8 @@ Quick Facts:
 - Bicycles accidents occured 2% of the time during wet conditions. 
 - There were no unusual conditions when most bicycle accidents occured.
 - Bicycle Accidents occur 16% more on intersections.
+- Broadside Collisions occured most of the time followed by Sideswipe collisions.
+- Most accidents occured in the month of April and on Wednesdays.
 
 Bicyclist Accidents by year: 
 - 2013    - 2414 
