@@ -1,7 +1,7 @@
 Bicycle Accident Map: 
 >https://doineedavisa.org/temp.html
 
-Quick Facts:
+Quick Insights:
 - Total Bicycle Accidents in LA from 2013-2018: 11638
 - Total Bicyclist Fatalities in Los Angeles from 2013-12018 is: 78
 - Total Bicyclist Injuries in Los Angeles from 2013-12018 is: 10975
