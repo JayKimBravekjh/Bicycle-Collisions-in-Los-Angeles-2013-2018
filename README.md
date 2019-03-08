@@ -15,7 +15,7 @@ Main Observations:
 - Broadside collisions occured most of the time followed by Sideswipe collisions.
 - Most bicycle collisions occured in the month of April and on Wednesdays.
 
-Bicyclist Collisions by year: 
+Bicyclist collisions by year: 
 - 2013    - 2414 
 - 2014    - 2309
 - 2015    - 2161
@@ -53,7 +53,7 @@ Time when most bicycle collisions occur
 - 1600    - 148
 - 1730    - 131
 
-Type of Bicycle Collisions:
+Type of Bicycle collisions:
 - Broadside            - 6813
 - Sideswipe            - 3042
 - Rear End             -  732
@@ -75,7 +75,7 @@ Top 5 Violation Category:
 - Improper Turning                                              - 1095
 - Unsafe Speed                                                  -  699
 
-Top 5 roads with the most bicycle accidents:
+Top 5 roads with the most bicycle collisions:
 - WESTERN AVE      - 3483
 - FIGUEROA ST      - 3116
 - VERMONT AVE      - 2987
