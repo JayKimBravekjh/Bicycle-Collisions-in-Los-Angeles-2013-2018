@@ -2,19 +2,20 @@ Bicycle Accident Map:
 >https://doineedavisa.org/temp.html
 
 Main Observations:
-- Total Bicycle Accidents in LA from 2013-2018: 11638
+- Total Bicycle Collisions in LA from 2013-2018: 11638
 - Total Bicyclist Fatalities in Los Angeles from 2013-12018 is: 78
 - Total Bicyclist Injuries in Los Angeles from 2013-12018 is: 10975
-- The annual average Bicycle Accidents per month is: 180
-- The worst month was on May 2013 with 224 bicycle injuries.
-- Most bicycle accidents occured on dry road surfaces during dry weather. 
-- Bicycles accidents occured 2% of the time during wet conditions. 
-- There were no unusual conditions when most bicycle accidents occured.
-- Bicycle Accidents occur 16% more on intersections.
+- The annual average Bicycle Collisions per month is: 180
+- The worst month was on May 2013 with 224 bicycle injuries
+- Time of day when most bicycle collisions occur: 18:00(6pm)
+- Most bicycle collisions occured on dry road surfaces during dry weather. 
+- Bicycles collisions occured 2% of the time during wet conditions. 
+- There were no unusual conditions when most bicycle collisions occured.
+- Bicycle Collisions occur 16% more on intersections.
 - Broadside Collisions occured most of the time followed by Sideswipe collisions.
-- Most accidents occured in the month of April and on Wednesdays.
+- Most bicycle collisions occured in the month of April and on Wednesdays.
 
-Bicyclist Accidents by year: 
+Bicyclist Collisions by year: 
 - 2013    - 2414 
 - 2014    - 2309
 - 2015    - 2161
@@ -22,7 +23,7 @@ Bicyclist Accidents by year:
 - 2017    - 1984
 - 2018    -  768
 
-Bicyclist Accidents by month(aggregate): 
+Bicyclist Collisions by month(aggregate): 
 - May          - 1103
 - April        - 1100
 - March        - 1092
@@ -36,14 +37,21 @@ Bicyclist Accidents by month(aggregate):
 - November     -  872
 - December     -  710
 
-Days with the most bicycle accidents(aggregate):
-- Wednesday    - 1930 <-day with most bicycle accidents
+Days with the most bicycle collisions(aggregate):
+- Wednesday    - 1930 <-day with most bicycle collisions
 - Thursday     - 1854
 - Tuesday      - 1791
 - Friday       - 1772
 - Monday       - 1635
 - Saturday     - 1440
 - Sunday       - 1216
+
+Time when most bicycle collisions occur
+- 1800    - 165
+- 1700    - 158
+- 1830    - 153
+- 1600    - 148
+- 1730    - 131
 
 Type of Bicycle Collisions:
 - Broadside            - 6813
@@ -56,7 +64,7 @@ Type of Bicycle Collisions:
 - Not Stated           -   34
 - Hit Object           -   28
 
-Bicycle accidents occuring on interections versus non-intersections:
+Bicycle collisions occuring on interections versus non-intersections:
 - Y    - 6310
 - N    - 5310
 
