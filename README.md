@@ -11,8 +11,8 @@ Main Observations:
 - Most bicycle collisions occured on dry road surfaces during dry weather. 
 - Bicycles collisions occured 2% of the time during wet conditions. 
 - There were no unusual conditions when most bicycle collisions occured.
-- Bicycle Collisions occur 16% more on intersections.
-- Broadside Collisions occured most of the time followed by Sideswipe collisions.
+- Bicycle collisions occur 16% more on intersections.
+- Broadside collisions occured most of the time followed by Sideswipe collisions.
 - Most bicycle collisions occured in the month of April and on Wednesdays.
 
 Bicyclist Collisions by year: 
