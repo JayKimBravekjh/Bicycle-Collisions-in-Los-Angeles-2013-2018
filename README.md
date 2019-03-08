@@ -2,10 +2,10 @@ Bicycle Accident Map:
 >https://doineedavisa.org/temp.html
 
 Main Observations:
-- Total Bicycle Collisions in LA from 2013-2018: 11638
+- Total Bicycle collisions in LA from 2013-2018: 11638
 - Total Bicyclist Fatalities in Los Angeles from 2013-12018 is: 78
 - Total Bicyclist Injuries in Los Angeles from 2013-12018 is: 10975
-- The annual average Bicycle Collisions per month is: 180
+- The annual average Bicycle collisions per month is: 180
 - The worst month was on May 2013 with 224 bicycle injuries
 - Time of day when most bicycle collisions occur: 18:00(6pm)
 - Most bicycle collisions occured on dry road surfaces during dry weather. 
@@ -23,7 +23,7 @@ Bicyclist Collisions by year:
 - 2017    - 1984
 - 2018    -  768
 
-Bicyclist Collisions by month(aggregate): 
+Bicyclist collisions by month(aggregate): 
 - May          - 1103
 - April        - 1100
 - March        - 1092
