@@ -98,7 +98,7 @@ Hit and Run
 
 Notes:
 - Datasource : http://geohub.lacity.org/datasets/66d96f15d4e14e039caa6134e6eab8e5_0
-
+- Dataset Guide: http://visionzero.lacity.org/wp-content/uploads/2016/09/SWITRS_codebook.pdf
 
 References:
 - https://www.laweekly.com/news/here-are-las-most-dangerous-intersections-map-6370625
