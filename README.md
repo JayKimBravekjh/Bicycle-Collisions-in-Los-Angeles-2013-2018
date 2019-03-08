@@ -1,4 +1,4 @@
-Bicycle Accident Map: 
+Bicycle collisions Map: 
 >https://doineedavisa.org/temp.html
 
 Main Observations:
