@@ -95,3 +95,19 @@ Hit and Run
 - Misdeamenor       -  367
 
 
+
+Notes:
+- Datasource : http://geohub.lacity.org/datasets/66d96f15d4e14e039caa6134e6eab8e5_0
+
+
+References:
+- https://www.laweekly.com/news/here-are-las-most-dangerous-intersections-map-6370625
+- https://www.seattle.gov/Documents/Departments/SeattleBicycleAdvisoryBoard/presentations/BPSA_Draft_Public_093016.pdf
+- https://www.theurbanist.org/2017/12/28/2016-traffic-data-trends-look-bad-pedestrians-vision-zero-reach/
+- https://www.outsideonline.com/2313301/would-you-ride-bike-los-angeles
+- https://www.bicycling.com/culture/a23566413/los-angeles-is-the-worst-bike-city-in-america/
+- https://www.nhtsa.gov/road-safety/bicycle-safety
+- http://www.pedbikeinfo.org/data/factsheet_crash.cfm
+- https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812507
+- https://bayareabicyclelaw.com/bike-accident-statistics-reality-check-cyclists/
+
