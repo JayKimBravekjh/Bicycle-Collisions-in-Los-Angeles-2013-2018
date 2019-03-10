@@ -1,4 +1,4 @@
-# H1 Bicycle Collisions in Los Angeles 2013-2018
+# Bicycle Collisions in Los Angeles 2013-2018
 
 > Bicycle collisions Map: 
 > https://doineedavisa.org/temp.html
