@@ -7,7 +7,7 @@ Main Observations:
 - Total Bicyclist Injuries in Los Angeles from 2013-12018 is: 10975
 - The annual average Bicycle collisions per month is: 180
 - The worst month was on May 2013 with 224 bicycle injuries
-- Time of day when most bicycle collisions occur: 18:00(6pm)
+- Time of day when most bicycle collisions occur: 17:00(5pm)
 - Most bicycle collisions occured on dry road surfaces during dry weather. 
 - Bicycles collisions occured 2% of the time during wet conditions. 
 - There were no unusual conditions when most bicycle collisions occured.
