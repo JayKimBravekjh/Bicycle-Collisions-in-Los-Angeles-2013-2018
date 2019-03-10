@@ -15,7 +15,7 @@ Main Observations:
 - Broadside collisions occured most of the time followed by Sideswipe collisions.
 - Most bicycle collisions occured in the month of April and on Wednesdays.
 
-![alt text](https://raw.githubusercontent.com/nonoumasy/Bicyclist-Collisions-in-Los-Angeles-2013-2018/la_bike.png)
+![Bicycle Collisions Heatmpa(hour, day of the week](https://www.github.com/nonoumasy/Bicyclist-Collisions-in-Los-Angeles-2013-2018/la_bike.png)
 
 
 Bicyclist collisions by year: 
