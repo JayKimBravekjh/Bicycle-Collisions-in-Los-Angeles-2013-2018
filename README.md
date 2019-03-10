@@ -15,6 +15,8 @@ Main Observations:
 - Broadside collisions occured most of the time followed by Sideswipe collisions.
 - Most bicycle collisions occured in the month of April and on Wednesdays.
 
+![temp]('la_bike.png')
+
 Bicyclist collisions by year: 
 - 2013    - 2414 
 - 2014    - 2309
